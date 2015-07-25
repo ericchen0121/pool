@@ -11,3 +11,8 @@ grigio:babel
 react
 accounts-ui-unstyled
 accounts-password
+meteorhacks:npm
+
+
+npm-container
+cosmos:browserify
